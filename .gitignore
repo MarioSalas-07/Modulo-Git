@@ -1,4 +1,5 @@
 #El signo de gato nos ayuda a definir un comando
 #Ignorar todos los documentos con terminacion .txt
-*.txt
+texto.txt
+pruebatxt
 .modulo-git/
